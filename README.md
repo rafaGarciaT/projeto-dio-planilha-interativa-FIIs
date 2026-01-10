@@ -2,7 +2,7 @@
 
 Este é um desafio de projeto que faz parte do curso da Dio "Santander - Excel com Inteligência Artificial." Aqui, desenvolvi uma planilha que simula investimentos em Fundos Imobiliários, e serve como um guia para onde direcionar novos investimentos.
 
-![Project Screenshot](images/Screenshot 2026-01-10 191943.png)
+<img width="1470" height="908" alt="Screenshot 2026-01-10 191943" src="https://github.com/user-attachments/assets/c8d19dc6-da72-4cb1-90b3-fee5c9b1604d" />
 
 
 ## Principais funcionalidades
